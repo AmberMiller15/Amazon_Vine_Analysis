@@ -16,19 +16,36 @@
 - The Results as follows:
     - Total number of paid reviews are 0 for Digital Ebooks.
     
+    ![image](https://user-images.githubusercontent.com/111200771/216173951-8bb18560-de29-4c90-85fb-a3268b98aa06.png)
+
+    
     - Since the total number of paid reviews is 0 the total number of paid 5 star reviews and the percentage of 5 star paid reviews is also 0.
+    
+    ![image](https://user-images.githubusercontent.com/111200771/216174043-1eca3286-1513-4fb7-a680-b0b8567c7402.png)
 
     - The total number of unpaid reviews is 65149 reviews.
+    
+    ![image](https://user-images.githubusercontent.com/111200771/216174095-35fdb3e3-d8d4-49cd-8c87-1d5476398a4f.png)
 
     - The total number of unpaid 5 star reviews is 24673 reviews.
+    
+    ![image](https://user-images.githubusercontent.com/111200771/216174153-235b188b-871d-48fe-a4ef-78cdf34a4d03.png)
 
     - The percentage of unpaid 5 star reviews is 37.87% of the unpaid reviews. 
+    
+    ![image](https://user-images.githubusercontent.com/111200771/216174193-bc8bc8b1-75bc-4d75-9453-b030f4a70981.png)
 
     - Total number of reviews (both paid and unpaid) from unfiltered data is equal to 5101693 reviews.
     
+    ![image](https://user-images.githubusercontent.com/111200771/216174240-e0b75689-391d-47d6-82f7-fd0ae35c5e78.png)
+    
     - Total number of 5-star reviews from the unfiltered data is equal to 2952613 reviews.
+    
+    ![image](https://user-images.githubusercontent.com/111200771/216174288-dc8f934e-3860-4937-b8c9-39857be8e789.png)
 
     - The total percentage of 5-star reviews from the unfiltered data is 57.88%.
+    
+    ![image](https://user-images.githubusercontent.com/111200771/216174324-18fd91ea-ce74-4008-93c0-80fdba98a17e.png)
 
 ### Summary
 - There is not a positivity bias for reviews in the Vine program for Digital Ebooks within this dataset. There were no paid reviews that left a 5 star rating for any of the Ebooks with more than 20 votes and the helpful_votes was at least 50 percent of the total_votes. The five star reviews in the final filtered data came from non-paid reviews. 
